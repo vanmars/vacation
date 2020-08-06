@@ -1,0 +1,16 @@
+.card-title {
+font-style: bold;
+color: blue  
+}
+
+.card-text {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.card-body {
+  background-color: lightcoral;
+}
+
+.jumbotron {
+  background-image: url(https://www.outsideonline.com/sites/default/files/styles/full-page/public/2020/02/04/mountain-lake-new-zealand-si_h.jpg?itok=pYWukwhe);
+}
